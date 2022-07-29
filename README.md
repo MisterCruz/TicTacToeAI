@@ -1,2 +1,2 @@
 # TicTacToeAI
-Unbeatable AI in Tic Tac Toe
+Unbeatable AI in Tic Tac Toe 🤖
